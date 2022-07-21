@@ -13,8 +13,17 @@ export default function Home() {
       <main>
         <Header title="Box with Daniel" />
         <p className="description">
-          Checkout Yelp here{" "}
+          Yelp{" "}
           <code>https://www.yelp.com/biz/box-with-daniel-san-francisco</code>
+        </p>
+        <p className="description">
+          Instagram <code>https://www.instagram.com/boxwithdaniel/</code>
+        </p>
+        <p className="description">
+          TikTok <code>https://www.tiktok.com/@boxwithdaniel</code>
+        </p>
+        <p className="description">
+          Calendly <code>https://calendly.com/boxwithdaniel</code>
         </p>
       </main>
 
