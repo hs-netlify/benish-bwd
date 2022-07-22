@@ -32,4 +32,5 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background: center / contain no-repeat #eee 35% url("../public/bwd.svg");
 }
