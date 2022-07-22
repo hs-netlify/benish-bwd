@@ -17,11 +17,9 @@ export default function Home() {
           <code>https://www.yelp.com/biz/box-with-daniel-san-francisco</code>
         </p>
         <p className="description">
-          Instagram 
-            <a href="https://www.instagram.com/boxwithdaniel/" target="_blank">
-            <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-instagram-16.png">
-            <link color="#26E07F" rel="mask-icon" href=".../icons8-instagram-48.svg"></link>
-    </p>
+          Instagram
+          <a href="https://www.instagram.com/boxwithdaniel/"></a>
+        </p>
         <p className="description">
           TikTok <code>https://www.tiktok.com/@boxwithdaniel</code>
         </p>
