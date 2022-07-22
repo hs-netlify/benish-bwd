@@ -13,13 +13,15 @@ export default function Home() {
 
       <main>
         <Header title="Box with Daniel" />
-<body>
-
-<p><b>Phone number: 415-309-5378</b></p>
-<p><b>Email: info@boxwithdaniel.com</b></p>
-<p><b>Website: www.boxwithdaniel.com<b></p>
-
-</body>
+        <body>
+          <p>
+            <b>Phone number: 415-309-5378</b>
+          </p>
+          <p>
+            <b>Email: info@boxwithdaniel.com</b>
+          </p>
+          <code>Website: www.boxwithdaniel.com</code>
+        </body>
 
         <p className="description">
           Yelp{" "}
