@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Header from "@components/Header";
 import Footer from "@components/Footer";
-import bwd from "/Users/bebe/box-with-daniel/public/bwd.svg";
+import bwd from "../public/bwd.svg";
 
 export default function Home() {
   return (
